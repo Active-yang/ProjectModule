@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.context.annotation.ComponentScan;
 
 /**
- * @author 吴梓轩
+ * @author
  * @since 2022-09-17
  */
 @SpringBootApplication
