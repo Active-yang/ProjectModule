@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjectModule.iml" filepath="$PROJECT_DIR$/.idea/ProjectModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/common/common.iml" filepath="$PROJECT_DIR$/module/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/common/common_utils/common_utils.iml" filepath="$PROJECT_DIR$/module/common/common_utils/common_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/service/project_acl/project_acl.iml" filepath="$PROJECT_DIR$/module/service/project_acl/project_acl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/service/project_oss/project_oss.iml" filepath="$PROJECT_DIR$/module/service/project_oss/project_oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/service/project_service/project_service.iml" filepath="$PROJECT_DIR$/module/service/project_service/project_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/service/service.iml" filepath="$PROJECT_DIR$/module/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/common/service_base/service_base.iml" filepath="$PROJECT_DIR$/module/common/service_base/service_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/waterfowl.iml" filepath="$PROJECT_DIR$/module/waterfowl.iml" />
+    </modules>
+  </component>
+</project>
